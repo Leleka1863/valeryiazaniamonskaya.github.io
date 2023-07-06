@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ship>
+    <module category= "shield">
+        <name>Simple energy shield</name>
+        <lvl>1</lvl>
+        <health>+10</health>
+        <color>Green</color>
+        <mechanics>use shields card</mechanics>
+    </module>
+
+<module category= "shield">
+    <name>Improved energy shield</name>
+    <lvl>2</lvl>
+    <color>Blue</color>
+    <block>+15%</block>
+</module>
+
+<module category= "shield">
+    <name>Plasma shield</name>
+    <lvl>3</lvl>
+    <colour>Purple</colour>
+    <block>+25%</block>
+    <speed>-2%</speed>
+</module>
+
+<module category= "shield">
+    <name>Phaton shield</name>
+    <lvl>4</lvl>
+    <colour>Red</colour>
+    <block>+45%</block>
+    <spead>-5%</spead>
+    <cA>10%</cA>
+</module>
+
+<module category= "shield">
+    <name>Quantum shield</name>
+    <lvl>5</lvl>
+    <colour>Orange</colour>
+    <block>+75%</block>
+    <speed>-13%</speed>
+    <cA>15%</cA>
+</module>
+
+<module category= "accelerator">
+    <name>Simple starters</name>
+    <lvl>1</lvl>
+    <health>+10</health>
+    <mechanics>interstellar travel</mechanics>
+</module>
+
+<module category= "accelerator">
+    <name>Improved starters</name>
+    <lvl>2</lvl>
+    <speed>+15%</speed>
+    <jump></jump>
+</module>
+
+<module category= "accelerator">
+    <name>iInterstellar drive</name>
+    <lvl>3</lvl>
+    <speed>+30%</speed>
+    <jump>+1 per day</jump>
+</module>
+
+<module category= "accelerator">
+    <name>Phaton sails</name>
+    <lvl>4</lvl>
+    <speed>+45%</speed>
+    <jump>+1 per 18 hours</jump>
+</module>
+
+<module category= "accelerator">
+    <name>Superluminal engine</name>
+    <lvl>5</lvl>
+    <speed>+75%</speed>
+    <jump>+1 per 12 hours</jump>
+</module>
+
+<module category= "living">
+    <name>Captain's cabin</name>
+    <lvl>1</lvl>
+    <health>+10</health>
+    <compartment> allow person</compartment>
+    <mechanics>background travel</mechanics>
+</module>
+
+<module category= "living">
+    <name>First block</name>
+    <lvl>2</lvl>
+    <health>+20</health>
+    <compartment>+1 person</compartment>
+</module>
+
+
+<module category= "living">
+    <name>Second block</name>
+    <lvl>3</lvl>
+    <health>+30</health>
+    <compartment>+1 person</compartment>
+</module>
+
+
+<module category= "living">
+    <name>Third block</name>
+    <lvl>4</lvl>
+    <health>+40</health>
+    <compartment>+1 person</compartment>
+</module>
+
+
+<module category= "living">
+    <name>Fourth block</name>
+    <lvl>5</lvl>
+    <health>+50</health>
+    <compartment>+1 person</compartment>
+</module>
+</ship>
