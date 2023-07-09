@@ -44,6 +44,7 @@
 <module category= "accelerator">
     <name>Simple starters</name>
     <lvl>1</lvl>
+     <colour>Orange</colour>
     <health>+10</health>
     <mechanics>interstellar travel</mechanics>
 </module>
@@ -51,6 +52,7 @@
 <module category= "accelerator">
     <name>Improved starters</name>
     <lvl>2</lvl>
+     <colour>Yellow</colour>
     <speed>+15%</speed>
     <jump></jump>
 </module>
@@ -58,6 +60,7 @@
 <module category= "accelerator">
     <name>iInterstellar drive</name>
     <lvl>3</lvl>
+     <colour>White</colour>
     <speed>+30%</speed>
     <jump>+1 per day</jump>
 </module>
@@ -65,6 +68,7 @@
 <module category= "accelerator">
     <name>Phaton sails</name>
     <lvl>4</lvl>
+     <colour>Yellow</colour>
     <speed>+45%</speed>
     <jump>+1 per 18 hours</jump>
 </module>
